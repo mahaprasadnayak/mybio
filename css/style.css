@@ -164,7 +164,7 @@
   z-index: 2;
 }
 
-.site-main .brand-area .experience-area .years-area h2 span {
+.site-main .brand-area .experience-area .years-area h2 > span {
   font: normal 600 22px/30px var(--roboto);
 }
 
